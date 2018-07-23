@@ -1,0 +1,6 @@
+version: '2'
+services:
+  mariklozik_container:
+    image: "mariklozik/cv"
+    ports:
+      - "8080:80"
